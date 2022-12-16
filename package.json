@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Barchok-Kiposmet/Quiz-Board/issues"
   },
-  "homepage": "https://github.com/Barchok-Kiposmet/Quiz-Board#readme"
+  "homepage": "https://github.com/Barchok-Kiposmet/Quiz-Board#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
